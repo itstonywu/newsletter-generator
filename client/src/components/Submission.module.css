@@ -1,0 +1,13 @@
+.submission {
+    display: flex;
+    color: initial;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    min-height: 3rem;
+    border: 1px solid darkgray;
+}
+
+.submission:hover {
+    color: white;
+    background-color: #0055b7;
+}

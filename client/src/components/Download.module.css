@@ -1,0 +1,17 @@
+.download {
+    cursor: pointer;
+    background-color: #002145;
+    border: 1px solid #002145;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    font-family: 'Roboto Mono', sans-serif;
+}
+
+.download:hover {
+    color: #002145;
+    background-color: white;
+}
