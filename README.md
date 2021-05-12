@@ -17,6 +17,6 @@ yarn dev
 
 ## Folders
 
-Backend is located in the root folder.
+Backend is located in `/src` folder.
 
 Frontend is located in `/client`
